@@ -6,7 +6,7 @@
 
 `scswam` is an open-source R-package published as a repository on
 GitHub. The package stores some inputs and outputs of the South Carolina 
-Surface Water Allocation Models (SWAM).This website documents the cRopscape 
+Surface Water Allocation Models (SWAM).This website documents the scswam 
 R-package and provides access to the data for the general public without requiring 
 the use of R software.
 
